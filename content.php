@@ -1,2 +1,5 @@
-<php><?php>
+<php>
+
+echo "holi";
+<?php>
 <php>
