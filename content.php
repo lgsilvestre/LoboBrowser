@@ -1,2 +1,4 @@
-<php><?php>
+<php>
+Contenido en PHP
+<?php>
 <php>
