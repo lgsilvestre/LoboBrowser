@@ -1,4 +1,5 @@
 LoboBrowser
 ===========
 
-Web Browser Java
+TuDios --> Allan Vallejos
+TuMesias --> Baltazar Espinoza
